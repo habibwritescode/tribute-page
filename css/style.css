@@ -1,0 +1,47 @@
+#main{
+    background-color: hsl(80 50% 60%);
+    font-family: Arial;
+    margin: 30px 2px 30px 2px;
+  }
+  
+  #title{
+    text-align: center;
+    font-size: 2.5em;
+    padding-top: 40px;
+  }
+  
+  .center-pTag{
+    text-align: center;
+  }
+  
+  #img-div{
+    background-color: white;
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+  }
+  
+  #img-caption{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  #tribute-info{
+    width: 33%;
+    margin: auto;
+  }
+  
+  h3{
+    text-align: center;
+    padding: 30px;
+  }
+  
+  li{
+    padding: 10px;
+  }
